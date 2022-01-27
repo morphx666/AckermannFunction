@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<SignAssembly>False</SignAssembly>
+
+		<AssemblyVersion>2022.1.27.61</AssemblyVersion>
+		<AssemblyFileVersion>2022.1.27.61</AssemblyFileVersion>
+  </PropertyGroup>
+
+</Project>
